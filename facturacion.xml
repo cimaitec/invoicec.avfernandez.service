@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<xml fileName="facturacion.xml"/>
+	<facElectronica>
+		<config>
+			<encrypted>resources/dispatcher_e.dat</encrypted>
+			<key>resources/dispatcher_k.dat</key>
+		</config>
+		<database>
+			<driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>						
+			<facturacion>
+				<scheme-login>PASS</scheme-login>
+				<keyFile>invoice.dat</keyFile>				
+				<driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+				<url>jdbc:sqlserver://localhost:1433;databaseName=Invoice</url>			    
+				<user>sa</user>
+				<password>123</password>
+				<sql>
+					<clavesDisponibles>
+					 Select COUNT(*)
+						 from fac_clavescontingencia 
+					 where	tipo = ?
+						and "fechaUso" is null 
+						and estado= '0'
+						and ruc = ?;
+					</clavesDisponibles>
+					<sqlObtieneClave>
+						Select clave 
+						 from fac_ClavesContingencia
+						where idclavecontingencia = ? 
+					</sqlObtieneClave>
+					<storeProcedureObtieneClave>
+						 { call pr_GetClaveContingencia (?,?,?,?) }
+					</storeProcedureObtieneClave>
+				<umbralClavesContingencias>200000</umbralClavesContingencias>
+				<umbralClavesContingencias>100000</umbralClavesContingencias>
+				<umbralClavesContingencias>50000</umbralClavesContingencias>
+				<umbralClavesContingencias>1000</umbralClavesContingencias>
+				<umbralClavesContingencias>200</umbralClavesContingencias>
+				</sql>
+			</facturacion>
+			<Empresa>				
+				<driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+				<url>jdbc:sqlserver://[ipEstablecimiento]:1433;databaseName=cicf2</url>	    
+				<user>sa</user>
+				<password>123</password>
+				<sql>
+					<updateInfoSri>
+						UPDATE TblPvCabMovimiento
+						   SET CNuAutorizacion = ?
+						      ,CCiClaveAcceso = ?
+						      ,CSnAutorizado = ?
+						      ,DFxAutorizacion = ?
+						      ,CDsMensajeWS = ?
+						      ,CSnCorreoDEEnviado = ?
+						      ,CCiAmbienteEmisionDctoElectronico = ?
+						 WHERE NIdPvMovimiento  = ?
+					</updateInfoSri>
+					<flagUpdateERP>N</flagUpdateERP>
+				</sql>
+			</Empresa>
+		</database>
+		<general>
+				<contingencia>
+					<envioCliente>N</envioCliente>
+					<enviaPdf>S</enviaPdf>
+				</contingencia>
+				<ws>
+					<consultaAutorizacion>
+						<intentos>3</intentos>
+						<timeIntentos>50000</timeIntentos>
+					</consultaAutorizacion>
+					<RecepcionComprobantes>
+						<timeOut>20000</timeOut>
+					</RecepcionComprobantes>
+				</ws>
+			<time-wait>2000</time-wait>
+			<EMISION>
+				<ambiente>1</ambiente>
+				<numHilos>5</numHilos>
+				<sleepHilos>500</sleepHilos>
+				<sleepBloqueHilo>2000</sleepBloqueHilo>
+				<nivelLog>ALL</nivelLog>
+				<AutorizacionIntentos>10</AutorizacionIntentos>
+				<AutorizacionTimeIntentos>3000</AutorizacionTimeIntentos>
+				<error-wsdls>					
+					<DESCRIPCION>Manejo de Contingencia Inicial Volver a enviar desde la primera si consultar</DESCRIPCION>
+					<ESTADO>ERROR-RESPUESTA</ESTADO>
+					<error-wsdl>Server returned HTTP response code</error-wsdl>
+					<ESTADO>ERROR-RESPUESTA</ESTADO>
+					<error-wsdl>Failed to Access</error-wsdl>
+					<ESTADO>ERROR-RESPUESTA</ESTADO>
+					<error-wsdl>could not execute statement</error-wsdl>
+					<ESTADO>ERROR-RESPUESTA</ESTADO>
+					<error-wsdl>The server sent HTTP status code 502: Bad Gateway</error-wsdl>								
+				</error-wsdls>
+				<warning-wsdls>					
+					<DESCRIPCION>Manejo de Contingencia con verificacion de Autorizacion</DESCRIPCION>
+					<ESTADO>SIN-RESPUESTA</ESTADO>
+					<warning-wsdl>timeout</warning-wsdl>
+				</warning-wsdls>
+			</EMISION>
+			<AUTORIZACION>
+				<error-wsdls>
+					<ESTADO>ERROR-RESPUESTA</ESTADO>
+					<DESCRIPCION>Manejo de Contingencia Inicial Volver a enviar desde la primera si consultar</DESCRIPCION>
+					<error-wsdl>Server returned HTTP response code</error-wsdl>
+					<error-wsdl>Failed to Access</error-wsdl>
+					<error-wsdl>could not execute statement</error-wsdl>	
+					<time_dia_reintento>2</time_dia_reintento>			
+				</error-wsdls>
+				<warning-wsdls>
+					<ESTADO>SIN-RESPUESTA</ESTADO>
+					<DESCRIPCION>Manejo de Contingencia con verificacion de Autorizacion</DESCRIPCION>
+					<warning-wsdl></warning-wsdl>
+				</warning-wsdls>
+			</AUTORIZACION>
+		</general>		
+    	<pdf>
+    	  <jasper>
+    	    <doc01>factura.jasper</doc01>
+    	    <doc04>notaCreditoFinal.jasper</doc04>
+    	    <doc05>notaDebitoFinal.jasper</doc05>
+    	    <doc06>guiaRemisionFinal.jasper</doc06>
+    	    <doc07>comprobanteRetencion.jasper</doc07>
+    	    <doc0923048904001_01>facturaSeguros.jasper</doc0923048904001_01>
+    	  </jasper>
+    	</pdf>
+		<alarm>
+			<email>
+			    <ambiente>PRUEBAS</ambiente>
+				<enable>Y</enable>
+				<!--
+				<host>mail.corpfernandez.com</host>
+				<sender>facturacionelectronica@corpfernandez.com</sender>
+				<user>facturacionelectronica</user>
+				<password>12345</password>
+				<tipoMail>HTML</tipoMail>
+				<port>25</port>
+				<tipo_autentificacion>NONE</tipo_autentificacion>
+				-->	
+			 
+				<host>mail.cimait.com.ec</host>
+				<sender>vpincay@cimait.com.ec</sender>
+				<user>vpincay</user>
+				<password>vpincay2</password>
+				<tipoMail>HTML</tipoMail>
+				<port>25</port>	
+				<tipo_autentificacion>SSL</tipo_autentificacion>
+					
+				<nombreEmpresa>Avicola Fernandez S.A.</nombreEmpresa>
+				<receivers-list>vpincay@cimait.com.ec</receivers-list>
+				<receivers-list-error>vpincay@cimait.com.ec</receivers-list-error>
+				<subject>|TIPODOC| No: |NUMDOC| de |NOMEMAIL|</subject>
+				<message><![CDATA[
+					<html><head></head>
+					<body align="center">
+					Estimado(a)
+					<br>
+					<br>Hubo inconvenientes con documento electronico generado el |FECHA| con No. |NODOCUMENTO|
+					<br>|Mensaje|
+					<br>Cualquier novedad comunicarse con |HELPDESK|.
+					</body></html>					
+				]]></message>
+				<message_error><![CDATA[
+					<html><head></head>
+					<body align="center">
+					Estimado(a)
+					<br>
+					<br>|CabError| documento electronico generado el |FECHA| con No. |NODOCUMENTO| - MOVIMIENTO : |MOV|
+					<br>|Mensaje|
+					<br>Cualquier novedad comunicarse con |HELPDESK|.
+					</body></html>
+				]]></message_error>
+				<message_contingencia><![CDATA[
+					<html><head></head>
+					<body align="center">
+					Estimado(a)
+					<br>
+					<br>|CabError| documento electronico generado el |FECHA| con No. |NODOCUMENTO|
+					<br>|Mensaje|
+					<br>Cualquier novedad comunicarse con |HELPDESK|.
+					</body></html>
+				]]></message_contingencia>
+				<message_exito><![CDATA[
+					<html><head></head>
+					<body align="center">
+					Estimad@: |CLIENTE|
+					<br>
+					<br>En Avicola Fernandez S.A. nos renovamos para servirle mejor. Nuestros documentos fisicos cambiaron, ahora son electronicos; asi, recibira su comprobante de pago directamente en su email.
+					<br>
+					<br>Adjunto enviamos su transaccion electronica |NODOCUMENTO| realizada el |FECHA|.
+					<br>
+					<br>Si desea su formato RIDE puede descargarlo en el portal Link: |PORTAL|.
+					<br>
+					<br>Avicola Fernandez S.A.
+					<br>
+					<br><small>(Las tildes han sido omitidas intencionalmente para evitar problemas de lectura).</small>
+					</body></html>
+				]]></message_exito>
+				<message_service_up>
+					Se levanta Servicio de Facturacion Electronica de Avicola Fernandez S.A. >>  |FECHA|
+				</message_service_up>				
+				<message_service_down>
+					Se detiene Servicio de Facturacion Electronica de Avicola Fernandez S.A. >>  |FECHA|
+				</message_service_down>
+				<subject_service>SERVICE INVOICE</subject_service>
+				<helpdesk>sorporte@corpfernandez.com</helpdesk>
+				<portal>http://www.corpfernandez-e.com/</portal>
+				<final-message>Pruebas</final-message>
+				<time-mail>10</time-mail>
+			</email>
+			<sleep-min>5</sleep-min>
+		</alarm>
+		<log>
+		    <control>log4j.xml</control>
+		</log>
+		<ctrl-on-off>
+			<file>facturacion.ctr</file>
+		</ctrl-on-off>
+	</facElectronica>
+</configuration>

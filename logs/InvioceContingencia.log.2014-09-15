@@ -1,0 +1,14 @@
+2014-09-15 15:08:30,633  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-15 15:08:30,637  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-15 15:08:30,936  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@1effc3eb
+2014-09-15 15:08:30,955  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-15 15:08:40,956  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-15 15:08:40,958  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-15 15:08:41,158  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@62d1b72d
+2014-09-15 15:08:41,175  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-15 15:08:51,176  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-15 15:08:51,178  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-15 15:08:51,376  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@2ecc5436
+2014-09-15 15:08:51,391  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-15 15:09:01,393  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-15 15:09:01,395  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml

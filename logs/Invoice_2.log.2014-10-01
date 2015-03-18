@@ -1,0 +1,25 @@
+2014-10-01 14:49:15,837  [INFO ] >>>>>>>>>>>><<<<<<<<<<<<
+2014-10-01 14:49:15,841  [INFO ] >>>>>>>>>>>>Inicio del Hilo 2<<<<<<<<<<<<
+2014-10-01 14:49:15,841  [INFO ] >>>>>>>>>>>>File a Procesa 2099270137400101001002000001601.xml<<<<<<<<<<<<
+2014-10-01 14:49:15,841  [INFO ] >>>>>>>>>>>>Carga de Control de Errores<<<<<<<<<<<<
+2014-10-01 14:49:15,841  [INFO ] Fin del Constructor
+2014-10-01 14:49:15,842  [INFO ] IdHilo::2
+2014-10-01 14:49:15,846  [INFO ] infoEmp::2099270137400101001002000001601.xml
+2014-10-01 14:49:18,343  [INFO ] >>obtieneInfoXml::Inicio::2099270137400101001002000001601.xml
+2014-10-01 14:49:18,716  [INFO ] <<obtieneInfoXml::Fin::2099270137400101001002000001601.xml
+2014-10-01 14:49:19,606  [INFO ] >>statusDocumento::Inicio::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:49:21,894  [INFO ] <<statusDocumento::Fin::2099270137400101001002000001601.xml::Status::NA
+2014-10-01 14:49:22,239  [INFO ] >>statusDocumentoContingencia::Inicio::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:49:27,429  [INFO ] <<statusDocumentoContingencia::Fin::2099270137400101001002000001601.xml::existsContingencia::0::estadoContingencia::null
+2014-10-01 14:49:28,982  [INFO ] >>eliminacion de xml::Inicio::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:49:30,854  [INFO ] <<eliminacion de xml::Fin::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:49:32,094  [INFO ] >>insertaBitacoraDocumento::Inicio::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:49:37,494  [INFO ] <<insertaBitacoraDocumento::Fin::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:49:38,503  [INFO ] >>leerXml de xml::Inicio::2099270137400101001002000001601.xml::0992701374001::001-002-000001601::2::01::null::2099270137400101001002000001601.xml::
+2014-10-01 14:49:48,493  [INFO ] <<leerXml de xml::Fin::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:49:48,773  [INFO ] >>setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:49:51,293  [INFO ] <<setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:49:58,597  [INFO ] Ambiente::2
+2014-10-01 14:50:03,062  [INFO ] >>validaXSD de xml::Inicio::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:50:15,893  [INFO ] <<validaXSD de xml::Fin::2099270137400101001002000001601.xml::com.sun.directory.examples.ServiceDataHilo@3aca5e2
+2014-10-01 14:50:16,492  [INFO ] ls_validaXSD::null

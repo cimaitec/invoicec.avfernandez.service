@@ -1,0 +1,81 @@
+2014-11-24 00:38:26,406  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-11-24 00:38:26,477  [INFO ] >>ruc-->0992142618001
+2014-11-24 00:38:26,489  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-11-24 00:38:27,255  [INFO ] >>databaseType-->SQLServer
+2014-11-24 00:38:27,257  [INFO ] >>Directorio-->C:\Invoice\Local\generados\
+2014-11-24 00:38:53,095  [DEBUG] >>Delete File Testing-->C:\Invoice\Local\contingencia\Testing.xml
+2014-11-24 00:38:53,099  [DEBUG] >>Create File Testing-->C:\Invoice\Local\contingencia\Testing.xml
+2014-11-24 00:38:53,208  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@231a9d12
+2014-11-24 00:40:25,310  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-11-24 00:40:25,313  [INFO ] >>ruc-->0992142618001
+2014-11-24 00:40:25,337  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-11-24 00:40:26,107  [INFO ] >>databaseType-->SQLServer
+2014-11-24 00:40:26,112  [INFO ] >>Directorio-->C:\Invoice\Local\generados\
+2014-11-24 00:40:37,502  [DEBUG] >>Delete File Testing-->C:\Invoice\Local\contingencia\Testing.xml
+2014-11-24 00:40:37,507  [DEBUG] >>Create File Testing-->C:\Invoice\Local\contingencia\Testing.xml
+2014-11-24 00:40:37,646  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@4ebbfcba
+2014-11-24 00:41:16,790  [ERROR] >>getTrxContingencia-->4 Registros
+2014-11-24 00:41:16,791  [DEBUG] ---------------------------------------------------------
+2014-11-24 00:41:16,791  [DEBUG] Registro a Procesa...
+2014-11-24 00:41:16,791  [DEBUG] Ambiente::1
+2014-11-24 00:41:16,791  [DEBUG] Ruc::0992142618001
+2014-11-24 00:41:16,791  [DEBUG] CodEstablecimiento::020
+2014-11-24 00:41:16,791  [DEBUG] CodPuntoEmision::001
+2014-11-24 00:41:16,791  [DEBUG] CodigoDocumento::04
+2014-11-24 00:41:16,791  [DEBUG] Secuencial::000000535
+2014-11-24 00:41:16,791  [DEBUG] Fecha Encolada::2014-11-24 00:20:45.383
+2014-11-24 00:41:16,791  [DEBUG] Ruta::C:\Invoice\Local\contingencia\
+2014-11-24 00:41:16,791  [DEBUG] NameFile::null
+2014-11-24 00:41:16,791  [DEBUG] Xml a Procesar::1099214261800104020001000000535.xml
+2014-11-24 00:41:16,792  [DEBUG] Delete Xml::C:\Invoice\Local\contingencia\1099214261800104020001000000535.xml
+2014-11-24 00:41:16,809  [DEBUG] UpdateEstadoContingencia::PC
+2014-11-24 00:43:17,181  [DEBUG] UpdateEstadoContingencia::PC
+2014-11-24 00:43:18,135  [DEBUG] ---------------------------------------------------------
+2014-11-24 00:43:22,062  [DEBUG] ---------------------------------------------------------
+2014-11-24 00:43:22,062  [DEBUG] Registro a Procesa...
+2014-11-24 00:43:22,062  [DEBUG] Ambiente::1
+2014-11-24 00:43:22,062  [DEBUG] Ruc::0992142618001
+2014-11-24 00:43:22,062  [DEBUG] CodEstablecimiento::020
+2014-11-24 00:43:22,062  [DEBUG] CodPuntoEmision::001
+2014-11-24 00:43:22,062  [DEBUG] CodigoDocumento::04
+2014-11-24 00:43:22,062  [DEBUG] Secuencial::000000536
+2014-11-24 00:43:22,062  [DEBUG] Fecha Encolada::2014-11-24 00:20:16.317
+2014-11-24 00:43:22,062  [DEBUG] Ruta::C:\Invoice\Local\contingencia\
+2014-11-24 00:43:22,062  [DEBUG] NameFile::null
+2014-11-24 00:43:22,143  [DEBUG] Xml a Procesar::1099214261800104020001000000536.xml
+2014-11-24 00:43:22,146  [DEBUG] Delete Xml::C:\Invoice\Local\contingencia\1099214261800104020001000000536.xml
+2014-11-24 00:43:22,149  [DEBUG] UpdateEstadoContingencia::PC
+2014-11-24 00:43:22,887  [DEBUG] UpdateEstadoContingencia::PC
+2014-11-24 00:43:22,887  [DEBUG] ---------------------------------------------------------
+2014-11-24 00:43:22,887  [DEBUG] ---------------------------------------------------------
+2014-11-24 00:43:22,887  [DEBUG] Registro a Procesa...
+2014-11-24 00:43:22,887  [DEBUG] Ambiente::1
+2014-11-24 00:43:22,887  [DEBUG] Ruc::0992142618001
+2014-11-24 00:43:22,887  [DEBUG] CodEstablecimiento::020
+2014-11-24 00:43:22,887  [DEBUG] CodPuntoEmision::001
+2014-11-24 00:43:22,887  [DEBUG] CodigoDocumento::04
+2014-11-24 00:43:22,887  [DEBUG] Secuencial::000000537
+2014-11-24 00:43:22,887  [DEBUG] Fecha Encolada::2014-11-24 00:20:44.897
+2014-11-24 00:43:22,887  [DEBUG] Ruta::C:\Invoice\Local\contingencia\
+2014-11-24 00:43:22,887  [DEBUG] NameFile::null
+2014-11-24 00:43:22,933  [DEBUG] Xml a Procesar::1099214261800104020001000000537.xml
+2014-11-24 00:43:22,935  [DEBUG] Delete Xml::C:\Invoice\Local\contingencia\1099214261800104020001000000537.xml
+2014-11-24 00:43:22,937  [DEBUG] UpdateEstadoContingencia::PC
+2014-11-24 00:43:26,416  [DEBUG] UpdateEstadoContingencia::PC
+2014-11-24 00:43:26,416  [DEBUG] ---------------------------------------------------------
+2014-11-24 00:43:26,416  [DEBUG] ---------------------------------------------------------
+2014-11-24 00:43:26,416  [DEBUG] Registro a Procesa...
+2014-11-24 00:43:26,416  [DEBUG] Ambiente::1
+2014-11-24 00:43:26,416  [DEBUG] Ruc::0992142618001
+2014-11-24 00:43:26,416  [DEBUG] CodEstablecimiento::020
+2014-11-24 00:43:26,416  [DEBUG] CodPuntoEmision::001
+2014-11-24 00:43:26,416  [DEBUG] CodigoDocumento::04
+2014-11-24 00:43:26,416  [DEBUG] Secuencial::000000538
+2014-11-24 00:43:26,416  [DEBUG] Fecha Encolada::2014-11-24 00:20:52.44
+2014-11-24 00:43:26,416  [DEBUG] Ruta::C:\Invoice\Local\contingencia\
+2014-11-24 00:43:26,416  [DEBUG] NameFile::null
+2014-11-24 00:43:26,445  [DEBUG] Xml a Procesar::1099214261800104020001000000538.xml
+2014-11-24 00:43:26,447  [DEBUG] Delete Xml::C:\Invoice\Local\contingencia\1099214261800104020001000000538.xml
+2014-11-24 00:43:26,450  [DEBUG] UpdateEstadoContingencia::PC
+2014-11-24 00:43:27,127  [DEBUG] UpdateEstadoContingencia::PC
+2014-11-24 00:43:27,128  [DEBUG] ---------------------------------------------------------

@@ -1,0 +1,159 @@
+2014-09-18 14:17:23,653  [DEBUG] >>>>>>>>>>>><<<<<<<<<<<<
+2014-09-18 14:17:23,654  [DEBUG] >>>>>>>>>>>>Inicio del Hilo 1<<<<<<<<<<<<
+2014-09-18 14:17:23,654  [DEBUG] >>>>>>>>>>>>File a Procesa 1099270137400101002002111011075.xml<<<<<<<<<<<<
+2014-09-18 14:17:23,654  [DEBUG] >>>>>>>>>>>>Carga de Control de Errores<<<<<<<<<<<<
+2014-09-18 14:17:23,655  [DEBUG] Fin del Constructor
+2014-09-18 14:17:23,656  [DEBUG] >>obtieneInfoXml::Inicio::1099270137400101002002111011075.xml
+2014-09-18 14:17:23,657  [INFO ] <<obtieneInfoXml::Fin::1099270137400101002002111011075.xml
+2014-09-18 14:17:23,658  [DEBUG] >>statusDocumento::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:24,592  [INFO ] <<statusDocumento::Fin::1099270137400101002002111011075.xml::Status::
+2014-09-18 14:17:24,593  [DEBUG] >>statusDocumentoContingencia::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:25,541  [INFO ] <<statusDocumentoContingencia::Fin::1099270137400101002002111011075.xml::existsContingencia::0
+2014-09-18 14:17:25,541  [DEBUG] >>eliminacion de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:25,542  [INFO ] <<eliminacion de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:25,542  [DEBUG] >>insertaBitacoraDocumento::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:26,159  [INFO ] <<insertaBitacoraDocumento::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:26,159  [DEBUG] >>leerXml de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:26,669  [INFO ] <<leerXml de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:26,670  [DEBUG] >>setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:26,865  [INFO ] <<setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:27,377  [DEBUG] >>validaXSD de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:28,207  [INFO ] <<validaXSD de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:28,208  [DEBUG] >>archivoToByte de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:17:28,209  [INFO ] <<archivoToByte de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@2c083020
+2014-09-18 14:18:37,131  [DEBUG] >>>>>>>>>>>><<<<<<<<<<<<
+2014-09-18 14:18:37,132  [DEBUG] >>>>>>>>>>>>Inicio del Hilo 1<<<<<<<<<<<<
+2014-09-18 14:18:37,132  [DEBUG] >>>>>>>>>>>>File a Procesa 1099270137400101002002111011075.xml<<<<<<<<<<<<
+2014-09-18 14:18:37,132  [DEBUG] >>>>>>>>>>>>Carga de Control de Errores<<<<<<<<<<<<
+2014-09-18 14:18:37,134  [DEBUG] Fin del Constructor
+2014-09-18 14:18:37,135  [DEBUG] >>obtieneInfoXml::Inicio::1099270137400101002002111011075.xml
+2014-09-18 14:18:37,135  [INFO ] <<obtieneInfoXml::Fin::1099270137400101002002111011075.xml
+2014-09-18 14:18:37,135  [DEBUG] >>statusDocumento::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:37,244  [INFO ] <<statusDocumento::Fin::1099270137400101002002111011075.xml::Status::NA
+2014-09-18 14:18:37,244  [DEBUG] >>statusDocumentoContingencia::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:37,327  [INFO ] <<statusDocumentoContingencia::Fin::1099270137400101002002111011075.xml::existsContingencia::0
+2014-09-18 14:18:37,327  [DEBUG] >>eliminacion de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:37,328  [INFO ] <<eliminacion de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:37,329  [DEBUG] >>insertaBitacoraDocumento::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:37,427  [INFO ] <<insertaBitacoraDocumento::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:37,427  [DEBUG] >>leerXml de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:37,944  [INFO ] <<leerXml de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:37,944  [DEBUG] >>setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:38,043  [INFO ] <<setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:38,142  [DEBUG] >>validaXSD de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:38,891  [INFO ] <<validaXSD de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:38,891  [DEBUG] >>archivoToByte de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:18:38,892  [INFO ] <<archivoToByte de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@3fac1e22
+2014-09-18 14:20:05,576  [DEBUG] >>>>>>>>>>>><<<<<<<<<<<<
+2014-09-18 14:20:05,577  [DEBUG] >>>>>>>>>>>>Inicio del Hilo 1<<<<<<<<<<<<
+2014-09-18 14:20:05,577  [DEBUG] >>>>>>>>>>>>File a Procesa 1099270137400101002002111011075.xml<<<<<<<<<<<<
+2014-09-18 14:20:05,577  [DEBUG] >>>>>>>>>>>>Carga de Control de Errores<<<<<<<<<<<<
+2014-09-18 14:20:05,579  [DEBUG] Fin del Constructor
+2014-09-18 14:20:05,580  [DEBUG] >>obtieneInfoXml::Inicio::1099270137400101002002111011075.xml
+2014-09-18 14:20:05,581  [INFO ] <<obtieneInfoXml::Fin::1099270137400101002002111011075.xml
+2014-09-18 14:20:05,582  [DEBUG] >>statusDocumento::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:05,626  [INFO ] <<statusDocumento::Fin::1099270137400101002002111011075.xml::Status::NA
+2014-09-18 14:20:05,627  [DEBUG] >>statusDocumentoContingencia::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:05,673  [INFO ] <<statusDocumentoContingencia::Fin::1099270137400101002002111011075.xml::existsContingencia::0
+2014-09-18 14:20:05,673  [DEBUG] >>eliminacion de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:05,674  [INFO ] <<eliminacion de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:05,674  [DEBUG] >>insertaBitacoraDocumento::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:05,702  [INFO ] <<insertaBitacoraDocumento::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:05,703  [DEBUG] >>leerXml de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:06,091  [INFO ] <<leerXml de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:06,091  [DEBUG] >>setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:06,210  [INFO ] <<setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:06,297  [DEBUG] >>validaXSD de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:07,011  [INFO ] <<validaXSD de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:07,012  [DEBUG] >>archivoToByte de xml::Inicio::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:20:07,012  [INFO ] <<archivoToByte de xml::Fin::1099270137400101002002111011075.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:23,956  [DEBUG] >>>>>>>>>>>><<<<<<<<<<<<
+2014-09-18 14:34:23,956  [DEBUG] >>>>>>>>>>>>Inicio del Hilo 1<<<<<<<<<<<<
+2014-09-18 14:34:23,956  [DEBUG] >>>>>>>>>>>>File a Procesa 1099270137400107015001111000195.xml<<<<<<<<<<<<
+2014-09-18 14:34:23,957  [DEBUG] >>>>>>>>>>>>Carga de Control de Errores<<<<<<<<<<<<
+2014-09-18 14:34:23,958  [DEBUG] Fin del Constructor
+2014-09-18 14:34:23,959  [DEBUG] >>obtieneInfoXml::Inicio::1099270137400107015001111000195.xml
+2014-09-18 14:34:23,959  [INFO ] <<obtieneInfoXml::Fin::1099270137400107015001111000195.xml
+2014-09-18 14:34:23,960  [DEBUG] >>statusDocumento::Inicio::1099270137400107015001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:23,998  [INFO ] <<statusDocumento::Fin::1099270137400107015001111000195.xml::Status::
+2014-09-18 14:34:23,998  [DEBUG] >>statusDocumentoContingencia::Inicio::1099270137400107015001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:24,033  [INFO ] <<statusDocumentoContingencia::Fin::1099270137400107015001111000195.xml::existsContingencia::0
+2014-09-18 14:34:24,033  [DEBUG] >>eliminacion de xml::Inicio::1099270137400107015001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:24,034  [INFO ] <<eliminacion de xml::Fin::1099270137400107015001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:24,034  [DEBUG] >>insertaBitacoraDocumento::Inicio::1099270137400107015001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:24,101  [INFO ] <<insertaBitacoraDocumento::Fin::1099270137400107015001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:24,101  [DEBUG] >>leerXml de xml::Inicio::1099270137400107015001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:24,373  [INFO ] <<leerXml de xml::Fin::1099270137400107015001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:24,374  [DEBUG] >>setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::1099270137400107015001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:24,469  [INFO ] <<setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::1099270137400107015001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:34:24,523  [ERROR]  Punto de Emision no existe o no se encuentra Activo. Ruc->0992701374001 Establecimiento015 Punto Emision001
+2014-09-18 14:34:24,971  [ERROR] Envio de Mail Error ::-1
+2014-09-18 14:36:36,182  [DEBUG] >>>>>>>>>>>><<<<<<<<<<<<
+2014-09-18 14:36:36,183  [DEBUG] >>>>>>>>>>>>Inicio del Hilo 1<<<<<<<<<<<<
+2014-09-18 14:36:36,183  [DEBUG] >>>>>>>>>>>>File a Procesa 1099270137400107001001111000195.xml<<<<<<<<<<<<
+2014-09-18 14:36:36,183  [DEBUG] >>>>>>>>>>>>Carga de Control de Errores<<<<<<<<<<<<
+2014-09-18 14:36:36,184  [DEBUG] Fin del Constructor
+2014-09-18 14:36:36,186  [DEBUG] >>obtieneInfoXml::Inicio::1099270137400107001001111000195.xml
+2014-09-18 14:36:36,186  [INFO ] <<obtieneInfoXml::Fin::1099270137400107001001111000195.xml
+2014-09-18 14:36:36,186  [DEBUG] >>statusDocumento::Inicio::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:36,221  [INFO ] <<statusDocumento::Fin::1099270137400107001001111000195.xml::Status::
+2014-09-18 14:36:36,222  [DEBUG] >>statusDocumentoContingencia::Inicio::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:36,260  [INFO ] <<statusDocumentoContingencia::Fin::1099270137400107001001111000195.xml::existsContingencia::0
+2014-09-18 14:36:36,260  [DEBUG] >>eliminacion de xml::Inicio::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:36,260  [INFO ] <<eliminacion de xml::Fin::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:36,261  [DEBUG] >>insertaBitacoraDocumento::Inicio::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:36,399  [INFO ] <<insertaBitacoraDocumento::Fin::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:36,400  [DEBUG] >>leerXml de xml::Inicio::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:36,603  [INFO ] <<leerXml de xml::Fin::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:36,603  [DEBUG] >>setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:36,677  [INFO ] <<setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:36,762  [DEBUG] >>validaXSD de xml::Inicio::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:37,332  [INFO ] <<validaXSD de xml::Fin::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:37,333  [DEBUG] >>archivoToByte de xml::Inicio::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 14:36:37,335  [INFO ] <<archivoToByte de xml::Fin::1099270137400107001001111000195.xml::com.sun.directory.examples.ServiceDataHilo@4d5fc672
+2014-09-18 19:54:19,313  [DEBUG] >>>>>>>>>>>><<<<<<<<<<<<
+2014-09-18 19:54:19,339  [DEBUG] >>>>>>>>>>>>Inicio del Hilo 1<<<<<<<<<<<<
+2014-09-18 19:54:19,339  [DEBUG] >>>>>>>>>>>>File a Procesa 2099270137400104002002011011073.xml<<<<<<<<<<<<
+2014-09-18 19:54:19,339  [DEBUG] >>>>>>>>>>>>Carga de Control de Errores<<<<<<<<<<<<
+2014-09-18 19:54:19,341  [DEBUG] Fin del Constructor
+2014-09-18 19:54:19,343  [DEBUG] >>obtieneInfoXml::Inicio::2099270137400104002002011011073.xml
+2014-09-18 19:54:19,343  [INFO ] <<obtieneInfoXml::Fin::2099270137400104002002011011073.xml
+2014-09-18 19:54:19,344  [DEBUG] >>statusDocumento::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:19,517  [INFO ] <<statusDocumento::Fin::2099270137400104002002011011073.xml::Status::
+2014-09-18 19:54:19,517  [DEBUG] >>statusDocumentoContingencia::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:19,628  [INFO ] <<statusDocumentoContingencia::Fin::2099270137400104002002011011073.xml::existsContingencia::0
+2014-09-18 19:54:19,629  [DEBUG] >>eliminacion de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:19,629  [INFO ] <<eliminacion de xml::Fin::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:19,629  [DEBUG] >>insertaBitacoraDocumento::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:19,860  [INFO ] <<insertaBitacoraDocumento::Fin::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:19,861  [DEBUG] >>leerXml de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:20,302  [INFO ] <<leerXml de xml::Fin::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:20,302  [DEBUG] >>setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:20,471  [INFO ] <<setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:20,620  [DEBUG] >>validaXSD de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:21,276  [INFO ] <<validaXSD de xml::Fin::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:21,277  [DEBUG] >>archivoToByte de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:54:21,278  [INFO ] <<archivoToByte de xml::Fin::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:56:59,273  [DEBUG] >>>>>>>>>>>><<<<<<<<<<<<
+2014-09-18 19:56:59,273  [DEBUG] >>>>>>>>>>>>Inicio del Hilo 1<<<<<<<<<<<<
+2014-09-18 19:56:59,274  [DEBUG] >>>>>>>>>>>>File a Procesa 2099270137400104002002011011073.xml<<<<<<<<<<<<
+2014-09-18 19:56:59,274  [DEBUG] >>>>>>>>>>>>Carga de Control de Errores<<<<<<<<<<<<
+2014-09-18 19:56:59,275  [DEBUG] Fin del Constructor
+2014-09-18 19:56:59,279  [DEBUG] >>obtieneInfoXml::Inicio::2099270137400104002002011011073.xml
+2014-09-18 19:56:59,279  [INFO ] <<obtieneInfoXml::Fin::2099270137400104002002011011073.xml
+2014-09-18 19:56:59,279  [DEBUG] >>statusDocumento::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:56:59,329  [INFO ] <<statusDocumento::Fin::2099270137400104002002011011073.xml::Status::RS
+2014-09-18 19:56:59,329  [DEBUG] >>statusDocumentoContingencia::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:56:59,458  [INFO ] <<statusDocumentoContingencia::Fin::2099270137400104002002011011073.xml::existsContingencia::0
+2014-09-18 19:56:59,458  [DEBUG] >>eliminacion de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:56:59,459  [INFO ] <<eliminacion de xml::Fin::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:56:59,460  [DEBUG] >>insertaBitacoraDocumento::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:56:59,506  [INFO ] <<insertaBitacoraDocumento::Fin::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:56:59,507  [DEBUG] >>leerXml de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:56:59,901  [INFO ] <<leerXml de xml::Fin::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:56:59,902  [DEBUG] >>setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:56:59,976  [INFO ] <<setFileXmlBackup y ModifyDocumentAcceso de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:57:00,127  [DEBUG] >>validaXSD de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:57:00,806  [INFO ] <<validaXSD de xml::Fin::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:57:00,807  [DEBUG] >>archivoToByte de xml::Inicio::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1
+2014-09-18 19:57:00,808  [INFO ] <<archivoToByte de xml::Fin::2099270137400104002002011011073.xml::com.sun.directory.examples.ServiceDataHilo@4578aae1

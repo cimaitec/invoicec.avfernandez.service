@@ -1,0 +1,389 @@
+2014-09-14 14:14:48,922  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:14:50,007  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:14:50,007  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:14:50,016  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:14:51,060  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:14:51,104  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:14:51,106  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:14:51,113  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:20:01,794  [ERROR] >>PruebaEnvioSolicitudRecepcion Error-->null
+2014-09-14 14:20:11,796  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:20:11,799  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:20:11,998  [ERROR] >>PruebaEnvioSolicitudRecepcion Error-->null
+2014-09-14 14:20:21,999  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:20:22,001  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:20:26,643  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@64498713
+2014-09-14 14:20:26,665  [ERROR] >>getTrxContingencia-->2 Registros
+2014-09-14 14:20:26,665  [DEBUG] ---------------------------------------------------------
+2014-09-14 14:20:26,665  [DEBUG] Registro a Procesa...
+2014-09-14 14:20:26,665  [DEBUG] Ambiente::1
+2014-09-14 14:20:26,665  [DEBUG] Ruc::0992701374001
+2014-09-14 14:20:26,665  [DEBUG] CodEstablecimiento::001
+2014-09-14 14:20:26,665  [DEBUG] CodPuntoEmision::001
+2014-09-14 14:20:26,665  [DEBUG] CodigoDocumento::01
+2014-09-14 14:20:26,665  [DEBUG] Secuencial::300000435
+2014-09-14 14:20:26,666  [DEBUG] Fecha Encolada::2014-09-12
+2014-09-14 14:20:26,666  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 14:20:26,666  [DEBUG] NameFile::null
+2014-09-14 14:20:26,666  [DEBUG] Xml a Procesar::1099270137400101001001400000435.xml
+2014-09-14 14:20:26,692  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:20:26,709  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:20:26,710  [DEBUG] ---------------------------------------------------------
+2014-09-14 14:20:26,710  [DEBUG] Registro a Procesa...
+2014-09-14 14:20:26,710  [DEBUG] Ambiente::1
+2014-09-14 14:20:26,710  [DEBUG] Ruc::0992701374001
+2014-09-14 14:20:26,710  [DEBUG] CodEstablecimiento::001
+2014-09-14 14:20:26,710  [DEBUG] CodPuntoEmision::001
+2014-09-14 14:20:26,710  [DEBUG] CodigoDocumento::01
+2014-09-14 14:20:26,710  [DEBUG] Secuencial::500000435
+2014-09-14 14:20:26,710  [DEBUG] Fecha Encolada::2014-09-12
+2014-09-14 14:20:26,710  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 14:20:26,710  [DEBUG] NameFile::null
+2014-09-14 14:20:26,827  [DEBUG] Xml a Procesar::1099270137400101001001500000435.xml
+2014-09-14 14:20:26,862  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:20:26,870  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:32:37,229  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:32:38,320  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:32:38,320  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:32:38,330  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:32:39,372  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:32:39,409  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:32:39,410  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:32:39,418  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:32:40,538  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@17991de1
+2014-09-14 14:32:40,553  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 14:32:50,554  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:32:50,557  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:32:50,786  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@2f6b904d
+2014-09-14 14:33:07,018  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:33:08,065  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:33:08,066  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:33:08,125  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:33:09,275  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:33:09,322  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:33:09,323  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:33:12,298  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:34:50,048  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:34:51,097  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:34:51,098  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:34:51,150  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:34:52,299  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:34:52,341  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:34:52,342  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:34:53,021  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:35:28,110  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:35:29,365  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:35:29,365  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:35:29,427  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:35:30,635  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:35:30,717  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:35:30,718  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:35:30,997  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:35:35,347  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@cc749e4
+2014-09-14 14:35:45,183  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:35:46,220  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:35:46,220  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:35:46,274  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:35:47,436  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:35:47,482  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:35:47,483  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:35:49,720  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:36:41,474  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:36:42,701  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:36:42,701  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:36:42,765  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:36:43,933  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:36:43,982  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:36:43,983  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:36:44,701  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:37:11,763  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:37:12,865  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:37:12,865  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:37:12,910  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:37:14,036  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:37:14,091  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:37:14,092  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:37:14,899  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:37:42,025  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:37:43,110  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:37:43,111  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:37:43,159  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:37:44,376  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:37:44,417  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:37:44,418  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:37:48,748  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:38:13,448  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:38:14,636  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:38:14,637  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:38:14,686  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:38:15,833  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:38:15,902  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:38:15,903  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:38:17,570  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:53:32,366  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:53:33,434  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:53:33,435  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:53:33,482  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:53:34,726  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:53:34,774  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:53:34,777  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:53:53,344  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:54:12,753  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@2d6acad2
+2014-09-14 14:54:30,533  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:54:31,590  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:54:31,590  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:54:31,639  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:54:32,768  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:54:32,813  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:54:32,814  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:54:33,969  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:54:58,825  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@2b27fa03
+2014-09-14 14:55:04,394  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 14:55:14,394  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:55:47,023  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:55:48,095  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:55:48,095  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:55:48,143  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:55:49,271  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:55:49,314  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:55:50,073  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:55:53,841  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@531a700a
+2014-09-14 14:55:56,680  [ERROR] >>getTrxContingencia-->2 Registros
+2014-09-14 14:55:56,680  [DEBUG] ---------------------------------------------------------
+2014-09-14 14:55:56,680  [DEBUG] Registro a Procesa...
+2014-09-14 14:55:56,681  [DEBUG] Ambiente::1
+2014-09-14 14:55:56,681  [DEBUG] Ruc::0992701374001
+2014-09-14 14:55:56,681  [DEBUG] CodEstablecimiento::001
+2014-09-14 14:55:56,681  [DEBUG] CodPuntoEmision::001
+2014-09-14 14:55:56,681  [DEBUG] CodigoDocumento::01
+2014-09-14 14:55:56,681  [DEBUG] Secuencial::300000435
+2014-09-14 14:55:56,681  [DEBUG] Fecha Encolada::2014-09-12
+2014-09-14 14:55:56,681  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 14:55:56,681  [DEBUG] NameFile::null
+2014-09-14 14:55:56,681  [DEBUG] Xml a Procesar::1099270137400101001001400000435.xml
+2014-09-14 14:55:58,285  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:55:58,306  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:55:58,306  [DEBUG] ---------------------------------------------------------
+2014-09-14 14:55:58,306  [DEBUG] Registro a Procesa...
+2014-09-14 14:55:58,307  [DEBUG] Ambiente::1
+2014-09-14 14:55:58,307  [DEBUG] Ruc::0992701374001
+2014-09-14 14:55:58,307  [DEBUG] CodEstablecimiento::001
+2014-09-14 14:55:58,307  [DEBUG] CodPuntoEmision::001
+2014-09-14 14:55:58,307  [DEBUG] CodigoDocumento::01
+2014-09-14 14:55:58,307  [DEBUG] Secuencial::500000435
+2014-09-14 14:55:58,307  [DEBUG] Fecha Encolada::2014-09-12
+2014-09-14 14:55:58,307  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 14:55:58,307  [DEBUG] NameFile::null
+2014-09-14 14:55:58,414  [DEBUG] Xml a Procesar::1099270137400101001001500000435.xml
+2014-09-14 14:55:59,790  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:55:59,798  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:56:19,800  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:56:25,257  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:56:27,951  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@19a8739b
+2014-09-14 14:56:30,312  [ERROR] >>getTrxContingencia-->2 Registros
+2014-09-14 14:56:30,312  [DEBUG] ---------------------------------------------------------
+2014-09-14 14:56:30,312  [DEBUG] Registro a Procesa...
+2014-09-14 14:56:30,312  [DEBUG] Ambiente::1
+2014-09-14 14:56:30,312  [DEBUG] Ruc::0992701374001
+2014-09-14 14:56:30,312  [DEBUG] CodEstablecimiento::001
+2014-09-14 14:56:30,312  [DEBUG] CodPuntoEmision::001
+2014-09-14 14:56:30,312  [DEBUG] CodigoDocumento::01
+2014-09-14 14:56:30,312  [DEBUG] Secuencial::300000435
+2014-09-14 14:56:30,313  [DEBUG] Fecha Encolada::2014-09-12
+2014-09-14 14:56:30,313  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 14:56:30,313  [DEBUG] NameFile::null
+2014-09-14 14:56:30,408  [DEBUG] Xml a Procesar::1099270137400101001001400000435.xml
+2014-09-14 14:56:32,726  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:56:32,735  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:56:32,736  [DEBUG] ---------------------------------------------------------
+2014-09-14 14:56:32,736  [DEBUG] Registro a Procesa...
+2014-09-14 14:56:32,736  [DEBUG] Ambiente::1
+2014-09-14 14:56:32,736  [DEBUG] Ruc::0992701374001
+2014-09-14 14:56:32,736  [DEBUG] CodEstablecimiento::001
+2014-09-14 14:56:32,736  [DEBUG] CodPuntoEmision::001
+2014-09-14 14:56:32,736  [DEBUG] CodigoDocumento::01
+2014-09-14 14:56:32,736  [DEBUG] Secuencial::500000435
+2014-09-14 14:56:32,736  [DEBUG] Fecha Encolada::2014-09-12
+2014-09-14 14:56:32,736  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 14:56:32,737  [DEBUG] NameFile::null
+2014-09-14 14:56:32,823  [DEBUG] Xml a Procesar::1099270137400101001001500000435.xml
+2014-09-14 14:56:36,614  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:56:36,623  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:56:47,949  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:56:48,996  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:56:48,996  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:56:49,041  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:56:50,255  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:56:50,313  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:56:50,314  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:56:50,574  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:56:52,672  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@3f2f529b
+2014-09-14 14:56:54,624  [ERROR] >>getTrxContingencia-->2 Registros
+2014-09-14 14:56:54,624  [DEBUG] ---------------------------------------------------------
+2014-09-14 14:56:54,624  [DEBUG] Registro a Procesa...
+2014-09-14 14:56:54,624  [DEBUG] Ambiente::1
+2014-09-14 14:56:54,624  [DEBUG] Ruc::0992701374001
+2014-09-14 14:56:54,624  [DEBUG] CodEstablecimiento::001
+2014-09-14 14:56:54,624  [DEBUG] CodPuntoEmision::001
+2014-09-14 14:56:54,624  [DEBUG] CodigoDocumento::01
+2014-09-14 14:56:54,625  [DEBUG] Secuencial::300000435
+2014-09-14 14:56:54,625  [DEBUG] Fecha Encolada::2014-09-12
+2014-09-14 14:56:54,625  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 14:56:54,625  [DEBUG] NameFile::null
+2014-09-14 14:56:54,625  [DEBUG] Xml a Procesar::1099270137400101001001400000435.xml
+2014-09-14 14:56:57,368  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:56:57,391  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:56:57,392  [DEBUG] ---------------------------------------------------------
+2014-09-14 14:56:57,392  [DEBUG] Registro a Procesa...
+2014-09-14 14:56:57,392  [DEBUG] Ambiente::1
+2014-09-14 14:56:57,392  [DEBUG] Ruc::0992701374001
+2014-09-14 14:56:57,392  [DEBUG] CodEstablecimiento::001
+2014-09-14 14:56:57,392  [DEBUG] CodPuntoEmision::001
+2014-09-14 14:56:57,392  [DEBUG] CodigoDocumento::01
+2014-09-14 14:56:57,392  [DEBUG] Secuencial::500000435
+2014-09-14 14:56:57,392  [DEBUG] Fecha Encolada::2014-09-12
+2014-09-14 14:56:57,392  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 14:56:57,393  [DEBUG] NameFile::null
+2014-09-14 14:56:57,504  [DEBUG] Xml a Procesar::1099270137400101001001500000435.xml
+2014-09-14 14:56:59,510  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:56:59,518  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:57:19,519  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:57:57,815  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 14:57:58,866  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 14:57:58,867  [INFO ] >>ruc-->0992701374001
+2014-09-14 14:57:58,912  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 14:58:00,059  [INFO ] >>databaseType-->SQLServer
+2014-09-14 14:58:00,109  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 14:58:00,812  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:58:05,318  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@1ac84361
+2014-09-14 14:58:10,751  [ERROR] >>getTrxContingencia-->2 Registros
+2014-09-14 14:58:10,751  [DEBUG] ---------------------------------------------------------
+2014-09-14 14:58:10,751  [DEBUG] Registro a Procesa...
+2014-09-14 14:58:10,751  [DEBUG] Ambiente::1
+2014-09-14 14:58:10,751  [DEBUG] Ruc::0992701374001
+2014-09-14 14:58:10,752  [DEBUG] CodEstablecimiento::001
+2014-09-14 14:58:10,752  [DEBUG] CodPuntoEmision::001
+2014-09-14 14:58:10,752  [DEBUG] CodigoDocumento::01
+2014-09-14 14:58:10,752  [DEBUG] Secuencial::300000435
+2014-09-14 14:58:10,752  [DEBUG] Fecha Encolada::2014-09-12
+2014-09-14 14:58:10,752  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 14:58:10,752  [DEBUG] NameFile::null
+2014-09-14 14:58:10,752  [DEBUG] Xml a Procesar::1099270137400101001001400000435.xml
+2014-09-14 14:58:12,950  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:58:12,972  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:58:12,972  [DEBUG] ---------------------------------------------------------
+2014-09-14 14:58:12,972  [DEBUG] Registro a Procesa...
+2014-09-14 14:58:12,972  [DEBUG] Ambiente::1
+2014-09-14 14:58:12,972  [DEBUG] Ruc::0992701374001
+2014-09-14 14:58:12,973  [DEBUG] CodEstablecimiento::001
+2014-09-14 14:58:12,973  [DEBUG] CodPuntoEmision::001
+2014-09-14 14:58:12,973  [DEBUG] CodigoDocumento::01
+2014-09-14 14:58:12,973  [DEBUG] Secuencial::500000435
+2014-09-14 14:58:12,973  [DEBUG] Fecha Encolada::2014-09-12
+2014-09-14 14:58:12,973  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 14:58:12,973  [DEBUG] NameFile::null
+2014-09-14 14:58:13,078  [DEBUG] Xml a Procesar::1099270137400101001001500000435.xml
+2014-09-14 14:58:16,078  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:58:16,088  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 14:58:36,090  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:58:44,641  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 14:58:56,990  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@68deeebd
+2014-09-14 14:59:00,350  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:05:33,372  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-14 15:05:34,491  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacion.xml
+2014-09-14 15:05:34,491  [INFO ] >>ruc-->0992701374001
+2014-09-14 15:05:34,499  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-14 15:05:35,598  [INFO ] >>databaseType-->SQLServer
+2014-09-14 15:05:35,633  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-14 15:05:35,634  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:05:35,640  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:05:36,745  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@22e496ab
+2014-09-14 15:05:36,762  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:05:46,764  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:05:46,766  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:05:46,979  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@305e7020
+2014-09-14 15:05:46,999  [ERROR] >>getTrxContingencia-->2 Registros
+2014-09-14 15:05:46,999  [DEBUG] ---------------------------------------------------------
+2014-09-14 15:05:46,999  [DEBUG] Registro a Procesa...
+2014-09-14 15:05:46,999  [DEBUG] Ambiente::1
+2014-09-14 15:05:46,999  [DEBUG] Ruc::0992701374001
+2014-09-14 15:05:46,999  [DEBUG] CodEstablecimiento::001
+2014-09-14 15:05:47,000  [DEBUG] CodPuntoEmision::001
+2014-09-14 15:05:47,000  [DEBUG] CodigoDocumento::01
+2014-09-14 15:05:47,000  [DEBUG] Secuencial::300000435
+2014-09-14 15:05:47,000  [DEBUG] Fecha Encolada::2014-09-12 20:26:17.513
+2014-09-14 15:05:47,000  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 15:05:47,000  [DEBUG] NameFile::null
+2014-09-14 15:05:47,000  [DEBUG] Xml a Procesar::1099270137400101001001400000435.xml
+2014-09-14 15:05:47,026  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 15:05:47,045  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 15:05:47,045  [DEBUG] ---------------------------------------------------------
+2014-09-14 15:05:47,046  [DEBUG] Registro a Procesa...
+2014-09-14 15:05:47,046  [DEBUG] Ambiente::1
+2014-09-14 15:05:47,046  [DEBUG] Ruc::0992701374001
+2014-09-14 15:05:47,046  [DEBUG] CodEstablecimiento::001
+2014-09-14 15:05:47,046  [DEBUG] CodPuntoEmision::001
+2014-09-14 15:05:47,046  [DEBUG] CodigoDocumento::01
+2014-09-14 15:05:47,046  [DEBUG] Secuencial::500000435
+2014-09-14 15:05:47,046  [DEBUG] Fecha Encolada::2014-09-12 20:30:48.7
+2014-09-14 15:05:47,046  [DEBUG] Ruta::C:\DataExpress\DMIRO\contingencia\
+2014-09-14 15:05:47,046  [DEBUG] NameFile::null
+2014-09-14 15:05:47,175  [DEBUG] Xml a Procesar::1099270137400101001001500000435.xml
+2014-09-14 15:05:47,194  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 15:05:47,200  [DEBUG] UpdateEstadoContingencia::PC
+2014-09-14 15:06:07,202  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:07,205  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:07,555  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@35a3e41f
+2014-09-14 15:06:07,571  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:06:17,572  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:17,576  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:17,834  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@35ad0839
+2014-09-14 15:06:17,850  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:06:27,852  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:27,854  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:28,064  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@6c43da1b
+2014-09-14 15:06:28,085  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:06:38,086  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:38,088  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:38,353  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@56a75737
+2014-09-14 15:06:38,369  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:06:48,370  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:48,372  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:48,647  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@4412dd76
+2014-09-14 15:06:48,662  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:06:58,662  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:58,664  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:06:58,902  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@339214b1
+2014-09-14 15:06:58,921  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:07:08,921  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:07:08,923  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:07:09,354  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@1f3c53a8
+2014-09-14 15:07:09,372  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:07:19,373  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:07:19,376  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:07:19,787  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@f8600d6
+2014-09-14 15:07:19,804  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:07:29,805  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:07:29,807  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:07:30,015  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@290e1513
+2014-09-14 15:07:30,041  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:07:40,041  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:07:40,044  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:07:40,302  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@3de4905a
+2014-09-14 15:07:40,327  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:07:50,327  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:07:50,329  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:07:50,584  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@438d460
+2014-09-14 15:07:50,599  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:08:00,600  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:08:00,602  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:08:00,856  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@4e4b12d9
+2014-09-14 15:08:00,872  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:08:10,873  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:08:10,877  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:08:11,222  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@69107c05
+2014-09-14 15:08:11,238  [ERROR] >>getTrxContingencia-->0 Registros
+2014-09-14 15:08:21,239  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:08:21,241  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-14 15:08:21,492  [DEBUG] >>PruebaEnvioSolicitudRecepcion-->ec.gob.sri.comprobantes.ws.RespuestaSolicitud@460ab1b4
+2014-09-14 15:08:21,510  [ERROR] >>getTrxContingencia-->0 Registros

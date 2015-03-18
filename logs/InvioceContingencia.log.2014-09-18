@@ -1,0 +1,37 @@
+2014-09-18 18:09:35,943  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-18 18:09:38,089  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacionContingencia.xml
+2014-09-18 18:09:38,090  [INFO ] >>ruc-->0992701374001
+2014-09-18 18:09:38,101  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-18 18:09:41,385  [INFO ] >>databaseType-->SQLServer
+2014-09-18 18:09:41,436  [INFO ] >>Directorio-->C:\DataExpress\DMIRO\generados\
+2014-09-18 18:09:41,475  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:09:41,513  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:09:45,098  [ERROR] >>PruebaEnvioSolicitudRecepcion Error-->null
+2014-09-18 18:09:55,099  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:09:55,102  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:09:55,798  [ERROR] >>PruebaEnvioSolicitudRecepcion Error-->null
+2014-09-18 18:10:05,799  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:05,801  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:06,395  [ERROR] >>PruebaEnvioSolicitudRecepcion Error-->null
+2014-09-18 18:10:16,396  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:16,398  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:17,022  [ERROR] >>PruebaEnvioSolicitudRecepcion Error-->null
+2014-09-18 18:10:27,022  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:27,024  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:27,681  [ERROR] >>PruebaEnvioSolicitudRecepcion Error-->null
+2014-09-18 18:10:37,683  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:37,685  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:38,312  [ERROR] >>PruebaEnvioSolicitudRecepcion Error-->null
+2014-09-18 18:10:48,312  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:48,315  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:48,997  [ERROR] >>PruebaEnvioSolicitudRecepcion Error-->null
+2014-09-18 18:10:58,998  [DEBUG] >>Delete File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:59,000  [DEBUG] >>Create File Testing-->C:\DataExpress\DMIRO\contingencia\Testing.xml
+2014-09-18 18:10:59,832  [ERROR] >>PruebaEnvioSolicitudRecepcion Error-->null
+2014-09-18 18:14:22,692  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-18 18:14:23,930  [DEBUG] >>Lectura de Archivo xml de Configuracion->facturacionContingencia.xml
+2014-09-18 18:14:23,930  [INFO ] >>ruc-->0992701374001
+2014-09-18 18:14:23,939  [INFO ] >>databaseType-->com.microsoft.sqlserver.jdbc.SQLServerDriver
+2014-09-18 18:14:25,143  [INFO ] >>databaseType-->SQLServer
+2014-09-18 18:20:35,482  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
+2014-09-18 18:22:57,653  [DEBUG] >>>>>>>>>>>>>>><<<<<<<<<<<<
