@@ -14,7 +14,7 @@
 				<driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
 				<url>jdbc:sqlserver://localhost:1433;databaseName=Invoice</url>			    
 				<user>sa</user>
-				<password>123</password>
+				<password>admin123</password>
 				<sql>
 					<clavesDisponibles>
 					 Select COUNT(*)
@@ -43,7 +43,7 @@
 				<driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
 				<url>jdbc:sqlserver://[ipEstablecimiento]:1433;databaseName=cicf2</url>	    
 				<user>sa</user>
-				<password>123</password>
+				<password>admin123</password>
 				<sql>
 					<updateInfoSri>
 						UPDATE TblPvCabMovimiento
@@ -56,7 +56,19 @@
 						      ,CCiAmbienteEmisionDctoElectronico = ?
 						 WHERE NIdPvMovimiento  = ?
 					</updateInfoSri>
-					<flagUpdateERP>N</flagUpdateERP>
+					<updateRet>
+						update TblCpCabRetencion
+						   set CNuAutorizacionSri = ?
+							   ,CCiClaveAcceso = ?
+							   ,CSnAutorizado = ?
+							   ,DFxAutorizacion = ?
+							   ,CDsMensajeWS = ?
+							   ,CSnCorreoDEEnviado = ?
+							   ,CCiAmbienteEmisionDctoElectronico = ?
+						where  CNuSerie + '' +  RIGHT(REPLICATE('0',9) + CAST(NNuRetencion as nvarchar(9)),9) = ?
+						   and CCeStatus = 'I'
+					</updateRet>
+					<flagUpdateERP>S</flagUpdateERP>
 				</sql>
 			</Empresa>
 		</database>

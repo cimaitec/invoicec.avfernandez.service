@@ -82,18 +82,16 @@ public class Acciones {
 		 * ========================================================
 		 */
 		String reportePdf = "";
-		if (infoAutorizacion[0].trim().equals("AUTORIZADO")) {
+		if (infoAutorizacion[0].trim().equals("AUTORIZADO"))
+		{
 			String xmlString = "";
 			String numeroAutorizacion = infoAutorizacion[1];
 			String fechaAutorizacion = infoAutorizacion[2];
-			XMLGregorianCalendar xmlFechaAutorizacion = XMLGregorianCalendarImpl
-					.parse(fechaAutorizacion);
-			Date dateFechaAutorizacion = ServiceDataHilo
-					.toDate(xmlFechaAutorizacion);
+			XMLGregorianCalendar xmlFechaAutorizacion = XMLGregorianCalendarImpl.parse(fechaAutorizacion);
+			Date dateFechaAutorizacion = ServiceDataHilo.toDate(xmlFechaAutorizacion);
 			CabDoc.setAutorizacion(numeroAutorizacion);
 
-			System.out.println("Copiando AUTORIZADO::"
-					+ infoEmp.getDirAutorizados() + emite.getFilexml());
+			System.out.println("Copiando AUTORIZADO::" + infoEmp.getDirAutorizados() + emite.getFilexml());
 			try {
 				File verificaXml = new File(infoEmp.getDirAutorizados()
 						+ emite.getFilexml());

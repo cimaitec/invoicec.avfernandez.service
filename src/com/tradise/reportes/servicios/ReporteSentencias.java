@@ -1580,8 +1580,24 @@ import com.util.util.key.Environment;
 			PreparedStatement pst = null;
 			Connection Con = null;
 			ResultSet rs = null;
-			try {
-				String sql = Environment.c.getString("facElectronica.database.Empresa.sql.updateInfoSri");
+			try
+			{
+				String sql;
+				String idMovimiento;
+				
+				if(emite.getInfEmisor().getCodDocumento().equals("07"))
+				{
+					sql = Environment.c.getString("facElectronica.database.Empresa.sql.updateRet");
+					idMovimiento = emite.getInfEmisor().getCodEstablecimiento() + emite.getInfEmisor().getCodPuntoEmision() + emite.getInfEmisor().getSecuencial();
+				}
+					
+				else
+				{
+					sql = Environment.c.getString("facElectronica.database.Empresa.sql.updateInfoSri");
+					idMovimiento = emite.getInfEmisor().getIdMovimiento();
+				}
+					 
+				
 				
 				String ipEstablecimiento = emite.getInfEmisor().getIpEstablecimiento()==null?"localhost":emite.getInfEmisor().getIpEstablecimiento();
 				//String formaEmision = emite.getInfEmisor().getTipoEmision();
@@ -1591,7 +1607,7 @@ import com.util.util.key.Environment;
 				if(mensajeWS.length()> 254)mensajeWS=mensajeWS.substring(254);
 				String ambiente = String.valueOf(emite.getInfEmisor().getAmbiente());		
 				String autorizacion  = emite.getInfEmisor().getNumeroAutorizacion()==null?"":emite.getInfEmisor().getNumeroAutorizacion();	
-				String idMovimiento = emite.getInfEmisor().getIdMovimiento();
+				
 				
 				//VPI - GBA
 				Con = ConexionBase.getConexionErp(ipEstablecimiento);
